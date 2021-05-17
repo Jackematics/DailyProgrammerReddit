@@ -1,0 +1,13 @@
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\bin\Debug\netcoreapp3.1\AlmostImpossibleChessboard.exe
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\bin\Debug\netcoreapp3.1\AlmostImpossibleChessboard.deps.json
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\bin\Debug\netcoreapp3.1\AlmostImpossibleChessboard.runtimeconfig.json
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\bin\Debug\netcoreapp3.1\AlmostImpossibleChessboard.runtimeconfig.dev.json
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\bin\Debug\netcoreapp3.1\AlmostImpossibleChessboard.dll
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\bin\Debug\netcoreapp3.1\AlmostImpossibleChessboard.pdb
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\obj\Debug\netcoreapp3.1\AlmostImpossibleChessboard.csprojAssemblyReference.cache
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\obj\Debug\netcoreapp3.1\AlmostImpossibleChessboard.AssemblyInfoInputs.cache
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\obj\Debug\netcoreapp3.1\AlmostImpossibleChessboard.AssemblyInfo.cs
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\obj\Debug\netcoreapp3.1\AlmostImpossibleChessboard.csproj.CoreCompileInputs.cache
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\obj\Debug\netcoreapp3.1\AlmostImpossibleChessboard.dll
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\obj\Debug\netcoreapp3.1\AlmostImpossibleChessboard.pdb
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AlmostImpossibleChessboard\obj\Debug\netcoreapp3.1\AlmostImpossibleChessboard.genruntimeconfig.cache

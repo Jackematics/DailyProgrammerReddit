@@ -1,0 +1,4 @@
+﻿  IBeforeEExceptAfterC.cpp
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\IBeforeEExceptAfterC\IBeforeEExceptAfterC.cpp(10,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\IBeforeEExceptAfterC\IBeforeEExceptAfterC.cpp(76,23): warning C4018: '<': signed/unsigned mismatch
+  IBeforeEExceptAfterC.vcxproj -> C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\Debug\IBeforeEExceptAfterC.exe

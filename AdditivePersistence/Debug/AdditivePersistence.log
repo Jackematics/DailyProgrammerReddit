@@ -1,0 +1,3 @@
+﻿  AdditivePersistence.cpp
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\AdditivePersistence\AdditivePersistence.cpp(17,27): warning C4018: '<': signed/unsigned mismatch
+  AdditivePersistence.vcxproj -> C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\Debug\AdditivePersistence.exe

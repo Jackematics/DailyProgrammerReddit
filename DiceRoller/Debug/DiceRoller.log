@@ -1,0 +1,5 @@
+﻿  DiceRoller.cpp
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\DiceRoller\DiceRoller.h(15,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\DiceRoller\DiceRoller.h(31,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\DiceRoller\DiceRoller.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+  DiceRoller.vcxproj -> C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\Debug\DiceRoller.exe

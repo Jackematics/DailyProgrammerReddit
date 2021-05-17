@@ -1,0 +1,42 @@
+NYT Crossword Challenge Notes
+
+Numbers in A and D need two black squares: One above the number, one left of it
+Numbers in A need a black square left of them
+Numbers in D need a black square above them
+
+One black square can have a number in A next to it and a number in D below it
+
+Grid Dimension 15
+30 Across Numbers needs <= 30 black squares 
+30 Down Numbers needs <= 30 black squares 
+10 Numbers shared by A and D: needs 20 black squares
+
+Every black square has either: 
+A number, a black square or the grid edge right of it
+A number, a black square or the grid edge below it
+
+Example 1 15x15
+
+A: 1,4,7,10,13,14,16,17,18,20,21,23,24,26,28,29,33,35,36,38,39,42,44,45,47,49,50,52,55,56,58,59,61,63,67,69,70,71,72,73,74,75,76
+D: 1,2,3,4,5,6,7,8,9,11,12,15,19,22,25,27,29,30,31,32,34,37,40,41,43,46,48,51,53,54,57,60,62,64,65,66,68
+
+Black Squares w/ whitespace right: 43 = borders + BS => BS = 43 - 12 = 31
+Black Squares w/ whitespace down: 37 = borders + BS => BS = 37 - 9 = 28
+Black Squares w/ whitespace right & down (A & D share the square): 17 (includes borders)
+
+Example 2
+A: 1, 5, 10, 14, 15, 16, 17, 20, 21, 22, 23, 25, 26, 27, 28, 32, 34, 36, 37, 38, 39, 41, 42, 43, 44, 45, 47, 50, 53, 54, 55, 58, 59, 60, 61, 62, 63
+D: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 18, 19, 24, 25, 27, 29, 30, 31, 32, 33, 34, 35, 37, 40, 41, 44, 46, 47, 48, 49, 50, 51, 52, 53, 56, 57
+
+Black Squares w/ whitespace right: 37
+Black Squares w/ whitespace down: 39
+Black Squares w/ whitespace right & down (A & D share the square): 18
+
+Example 3
+
+A: 1, 6, 10, 14, 15, 16, 17, 18, 19, 20, 23, 24, 25, 28, 30, 34, 36, 37, 38 41, 42, 43, 44, 45, 47, 48, 50, 52, 59, 60, 61, 62, 63, 64, 65, 66, 67
+D: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 21, 22, 25, 26, 27, 29, 31, 32, 33, 35, 37, 39, 40, 45, 46, 49, 51, 52, 53, 54, 55, 56, 57, 58
+
+Black Squares w/ whitespace right: 37 = mod(A)
+Black Squares w/ whitespace down: 37
+Black Squares w/ whitespace right & down (A & D share the square): 14

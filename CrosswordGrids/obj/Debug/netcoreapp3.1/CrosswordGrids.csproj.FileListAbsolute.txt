@@ -1,0 +1,13 @@
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\bin\Debug\netcoreapp3.1\CrosswordGrids.exe
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\bin\Debug\netcoreapp3.1\CrosswordGrids.deps.json
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\bin\Debug\netcoreapp3.1\CrosswordGrids.runtimeconfig.json
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\bin\Debug\netcoreapp3.1\CrosswordGrids.runtimeconfig.dev.json
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\bin\Debug\netcoreapp3.1\CrosswordGrids.dll
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\bin\Debug\netcoreapp3.1\CrosswordGrids.pdb
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\obj\Debug\netcoreapp3.1\CrosswordGrids.csprojAssemblyReference.cache
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\obj\Debug\netcoreapp3.1\CrosswordGrids.AssemblyInfoInputs.cache
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\obj\Debug\netcoreapp3.1\CrosswordGrids.AssemblyInfo.cs
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\obj\Debug\netcoreapp3.1\CrosswordGrids.csproj.CoreCompileInputs.cache
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\obj\Debug\netcoreapp3.1\CrosswordGrids.dll
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\obj\Debug\netcoreapp3.1\CrosswordGrids.pdb
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\CrosswordGrids\obj\Debug\netcoreapp3.1\CrosswordGrids.genruntimeconfig.cache

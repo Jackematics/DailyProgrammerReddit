@@ -1,0 +1,13 @@
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\obj\Debug\netcoreapp3.1\PossibleNumberOfPies.csprojAssemblyReference.cache
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\obj\Debug\netcoreapp3.1\PossibleNumberOfPies.AssemblyInfoInputs.cache
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\obj\Debug\netcoreapp3.1\PossibleNumberOfPies.AssemblyInfo.cs
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\obj\Debug\netcoreapp3.1\PossibleNumberOfPies.csproj.CoreCompileInputs.cache
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\bin\Debug\netcoreapp3.1\PossibleNumberOfPies.exe
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\bin\Debug\netcoreapp3.1\PossibleNumberOfPies.deps.json
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\bin\Debug\netcoreapp3.1\PossibleNumberOfPies.runtimeconfig.json
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\bin\Debug\netcoreapp3.1\PossibleNumberOfPies.runtimeconfig.dev.json
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\bin\Debug\netcoreapp3.1\PossibleNumberOfPies.dll
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\bin\Debug\netcoreapp3.1\PossibleNumberOfPies.pdb
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\obj\Debug\netcoreapp3.1\PossibleNumberOfPies.dll
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\obj\Debug\netcoreapp3.1\PossibleNumberOfPies.pdb
+C:\Users\jackr\Documents\Coding\Projects\C#\DailyProgrammerReddit\PossibleNumberOfPies\obj\Debug\netcoreapp3.1\PossibleNumberOfPies.genruntimeconfig.cache
